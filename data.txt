@@ -1,0 +1,2 @@
+hello: Hello! How can I help you today?
+how: I am just a voice assistant. How can I assist you further?

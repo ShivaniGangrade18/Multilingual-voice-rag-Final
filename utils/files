@@ -1,1 +1,4 @@
-
+── utils/
+│   ├── speech.py           # Voice input/output functions
+│   ├── retriever.py        # Vector search setup using FAISS
+│   └── llm.py              # OpenAI model integration
